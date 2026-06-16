@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "id": "mo5x2worhm77",
+      "title": "FrontendMasters : Enterprise UI Development",
+      "description": "Architect large, successful frontend systems! Balance autonomy and complexity as you explore monoliths, microfrontends, and monorepos. Use Turborepo to speed up build times and keep your team productive. Learn CI/CD and testing best practices to ship faster with higher-quality code.",
+      "link": "https://frontendmasters.com/courses/enterprise-ui-dev-v2/",
+      "image": "/course-images/1776612280049-dy91ej.png",
+      "createdAt": "2026-04-19T15:24:40.059Z"
+    },
+    {
+      "id": "mo5x59z46dkq",
+      "title": "FrontendMasters :  AI Agents Fundamentals, v2",
+      "description": "Create a CLI agent from scratch! Learn the foundations of agent development like tool calling, agent loops, and and evals. Add human-in-the-loop approvals for higher-stakes operations. Monitor token usage and implement advanced for managing the context window.",
+      "link": "https://frontendmasters.com/courses/ai-agents-v2/",
+      "image": "/course-images/1776612390577-u38k85.png",
+      "createdAt": "2026-04-19T15:26:30.592Z"
+    }
+  ]
+}

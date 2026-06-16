@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "id": "microfrontend",
+      "title": "Module Federation & Microfrontend Architecture",
+      "path": "docs/microfrontend.md",
+      "type": "md",
+      "sections": [
+        "all"
+      ]
+    },
+    {
+      "id": "generative-ui-streaming-react-components-from-an-llm",
+      "title": "Generative UI: Streaming React Components from an LLM",
+      "path": "docs/generative-ui-streaming-react-components-from-an-llm.md",
+      "type": "md",
+      "sections": [
+        "all"
+      ]
+    },
+    {
+      "id": "langchain-agents",
+      "title": "LangChain Agents on the Frontend: Architecture Patterns",
+      "path": "docs/langchain-agents.md",
+      "type": "md",
+      "sections": [
+        "all"
+      ]
+    }
+  ],
+  "settings": {
+    "chunkSize": 500,
+    "chunkOverlap": 100,
+    "topK": 5,
+    "embeddingModel": "text-embedding-3-small"
+  }
+}
