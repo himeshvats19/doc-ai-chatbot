@@ -6,17 +6,6 @@ To elevate the reading experience, I engineered a custom feature called **ByteCh
 
 🔗 **Live Blog:** [doc-ai-chatbot-sigma.vercel.app](https://doc-ai-chatbot-sigma.vercel.app/)
 
----
-
-## 📺 Project Demonstration
-
-Here is a quick look at how readers can interact with my blog posts (e.g., querying details about shared dependencies inside my "Module Federation & Microfrontend Architecture" article):
-
-<video src="ByteChatDemo.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px; min-height: 200px"></video>
-
-*(Note: When you push your video to GitHub, replace the `src` URL above with the actual link to your uploaded file so it renders perfectly on your profile!)*
-
----
 
 ## ✨ Features
 
@@ -26,23 +15,3 @@ Here is a quick look at how readers can interact with my blog posts (e.g., query
 * 🌓 **Responsive Theme Switching:** Includes native Light/Dark mode toggling.
 
 ---
-
-## 🛠️ Built With
-
-* **Next.js** - React framework for frontend structure and routing.
-* **Tailwind CSS** - For responsive, modern UI styling.
-* **LLM Integration** - Bounded context/vector retrieval to power the document-specific chatbot assistant.
-* **Vercel** - Fast global deployment and hosting.
-
----
-
-## 🚀 Running Locally
-
-If you want to explore the architecture or run my blog locally:
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/himeshvats19/doc-ai-chatbot.git](https://github.com/himeshvats19/doc-ai-chatbot.git)
-   cd doc-ai-chatbot
