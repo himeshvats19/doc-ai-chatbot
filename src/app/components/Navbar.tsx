@@ -26,7 +26,7 @@ export default function Navbar() {
       <div className="navbar-container">
         <Link href="/" className="navbar-brand-link">
           <div className="navbar-logo">📚</div>
-          <span className="navbar-brand">ByteChat</span>
+          <span className="navbar-brand">ByteChat : A technical journal by Himesh Vats</span>
         </Link>
 
         <nav className="navbar-links">
