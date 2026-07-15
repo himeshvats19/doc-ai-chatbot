@@ -23,7 +23,7 @@ export default function CoursesPage() {
     <div className="welcome-container" style={{ minHeight: '80vh', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
       <div className="landing-hero">
         <h3 className="landing-title">
-          Recommended <span style={{ fontWeight: 400, color: 'var(--text-secondary)' }}>Courses</span>
+          Recommended Courses
         </h3>
         <p className="landing-subtitle">
           A curated list of courses and learning resources to level up your engineering skills.

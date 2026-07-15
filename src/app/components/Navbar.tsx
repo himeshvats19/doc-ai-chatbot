@@ -32,8 +32,7 @@ export default function Navbar() {
         <nav className="navbar-links">
           <Link href="/" className="nav-item active">Articles</Link>
           <Link href="/courses" className="nav-item">Courses</Link>
-          <a href="#" className="nav-item">Documentation</a>
-          <a href="#" className="nav-item" style={{ marginRight: '16px' }}>GitHub</a>
+          <a href="https://github.com/himeshvats19/doc-ai-chatbot" target='blank' className="nav-item" style={{ marginRight: '16px' }}>GitHub</a>
           
           {mounted && (
             <button 

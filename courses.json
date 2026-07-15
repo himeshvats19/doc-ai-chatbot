@@ -15,6 +15,14 @@
       "link": "https://frontendmasters.com/courses/ai-agents-v2/",
       "image": "/course-images/1776612390577-u38k85.png",
       "createdAt": "2026-04-19T15:26:30.592Z"
+    },
+    {
+      "id": "mo5x59z4",
+      "title": "FrontendMasters :  Complete Intro to Databases, v2",
+      "description": "Gain hands-on experience using relational, document, graph, key-value, and columnar databases. Learn foundational database skills like schema design, writing queries, and optimizing performance, so your apps stay fast. Build AI-powered features with vector search and RAG. Confidently choose the right database for your next app!",
+      "link": "https://frontendmasters.com/courses/databases-v2/",
+      "image": "/course-images/databasev2.png",
+      "createdAt": "2026-04-19T15:26:30.592Z"
     }
   ]
 }
