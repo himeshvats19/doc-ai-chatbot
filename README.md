@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Engineering Log (ByteChat)
 
-## Getting Started
+Welcome to my personal engineering log! This repository contains the source code for my technical blog website, where I write deep-dives into scalable systems, frontend infrastructure, and distributed node networks. 
 
-First, run the development server:
+To elevate the reading experience, I engineered a custom feature called **ByteChat**: an integrated AI assistant built directly into the page. Every article I publish is paired with an AI companion strictly bounded to the logic, context, and code of that specific post.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 **Live Blog:** [doc-ai-chatbot-sigma.vercel.app](https://doc-ai-chatbot-sigma.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📺 Project Demonstration
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Here is a quick look at how readers can interact with my blog posts (e.g., querying details about shared dependencies inside my "Module Federation & Microfrontend Architecture" article):
 
-## Learn More
+![ByteChat Demo](https://raw.githubusercontent.com/himeshvats19/doc-ai-chatbot/main/demo.gif)
+*(Note: To display a video loop here, convert your video snippet into a `.gif` format, upload it to your repo, and update this image path!)*
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* ✍️ **Deep Technical Insights:** A dedicated space where I document complex architectural patterns, complete with structured code blocks and deployment strategies.
+* 🧠 **Context-Bounded AI Assistant:** A custom-built chatbot interface (`ByteChat Assistant`) that acts as an expert on the specific post, retrieving accurate answers directly from my written content without hallucinating outside topics.
+* 🎨 **Developer-Centric UI:** A clean, scannable dark-themed journal designed for readability, featuring an inline, toggleable chat panel.
+* 🌓 **Responsive Theme Switching:** Includes native Light/Dark mode toggling.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **Next.js** - React framework for frontend structure and routing.
+* **Tailwind CSS** - For responsive, modern UI styling.
+* **LLM Integration** - Bounded context/vector retrieval to power the document-specific chatbot assistant.
+* **Vercel** - Fast global deployment and hosting.
+
+---
+
+## 🚀 Running Locally
+
+If you want to explore the architecture or run my blog locally:
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/himeshvats19/doc-ai-chatbot.git](https://github.com/himeshvats19/doc-ai-chatbot.git)
+   cd doc-ai-chatbot
