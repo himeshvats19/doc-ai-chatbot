@@ -29,10 +29,10 @@ export default function RootLandingPage() {
     <div className="welcome-container" style={{ minHeight: '80vh', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
       <div className="landing-hero">
         <h3 className="landing-title">
-          The Engineering Log: <span style={{ fontWeight: 400, color: 'var(--text-secondary)' }}>Beyond the Frameworks</span>
+          The Engineering Log
         </h3>
         <p className="landing-subtitle">
-          Deep-dives into scalable systems, frontend infrastructure, and distributed node networks. Each post is equipped with an AI strictly bounded to the logic.
+          By Himesh Vats — Deep-dives into scalable systems, frontend infrastructure, and distributed networks. Every post is equipped with an AI strictly bounded to the logic.
         </p>
       </div>
 

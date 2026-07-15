@@ -1,4 +1,4 @@
-# The Engineering Log (ByteChat)
+# The Engineering Log (ByteChat) : A technical journal by Himesh Vats
 
 Welcome to my personal engineering log! This repository contains the source code for my technical blog website, where I write deep-dives into scalable systems, frontend infrastructure, and distributed node networks. 
 
@@ -12,8 +12,9 @@ To elevate the reading experience, I engineered a custom feature called **ByteCh
 
 Here is a quick look at how readers can interact with my blog posts (e.g., querying details about shared dependencies inside my "Module Federation & Microfrontend Architecture" article):
 
-![ByteChat Demo](https://raw.githubusercontent.com/himeshvats19/doc-ai-chatbot/main/demo.gif)
-*(Note: To display a video loop here, convert your video snippet into a `.gif` format, upload it to your repo, and update this image path!)*
+<video src="https://github.com/user-attachments/assets/ByteChatDemo.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px; min-height: 200px"></video>
+
+*(Note: When you push your video to GitHub, replace the `src` URL above with the actual link to your uploaded file so it renders perfectly on your profile!)*
 
 ---
 
