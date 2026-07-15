@@ -12,7 +12,7 @@ To elevate the reading experience, I engineered a custom feature called **ByteCh
 
 Here is a quick look at how readers can interact with my blog posts (e.g., querying details about shared dependencies inside my "Module Federation & Microfrontend Architecture" article):
 
-<video src="https://github.com/user-attachments/assets/ByteChatDemo.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px; min-height: 200px"></video>
+<video src="ByteChatDemo.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px; min-height: 200px"></video>
 
 *(Note: When you push your video to GitHub, replace the `src` URL above with the actual link to your uploaded file so it renders perfectly on your profile!)*
 
