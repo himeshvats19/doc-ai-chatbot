@@ -82,7 +82,7 @@ export default function BlogInterface({ markdown, folder, title }: BlogInterface
               </div>
               <div className="author-details">
                 <div className="author-name">Himesh Vats</div>
-                <div className="author-role">Staff Frontend Engineer</div>
+                <div className="author-role">Software Engineer</div>
               </div>
               <div className="read-time">12 min read</div>
             </div>
